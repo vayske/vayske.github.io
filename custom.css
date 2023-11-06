@@ -25,6 +25,6 @@
 p img {
     float: left;
     padding: 5px;
-    height: 400px;
+    height: auto;
     width: auto;
 }
